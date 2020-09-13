@@ -17,6 +17,8 @@
 
 <p align="center">
 <a href="https://twitter.com/mdbaquirqureshi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mdbaquirqureshi" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/mohd-baquir-qureshi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mohd-baquir-qureshi" height="30" width="30" /></a>
+<a href="https://fb.com/mohd.baquir.qureshi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mohd.baquir.qureshi" height="30" width="30" /></a>
 <a href="https://instagram.com/mohd.baquir_qureshi__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mohd.baquir_qureshi__" height="30" width="30" /></a>
 <a href="https://www.hackerearth.com/@mohd.baquir.qureshi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@mohd.baquir.qureshi" height="30" width="30" /></a>
 </p>

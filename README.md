@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **baquir7860@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-baquir-qureshi&layout=compact&hide=html" alt="mohd-baquir-qureshi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-baquir-qureshi&layout=compact&hide=html" alt="mohd-baquir-qureshi" /></p><br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohd-baquir-qureshi&show_icons=true" alt="mohd-baquir-qureshi" /></p>
 
